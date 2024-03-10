@@ -3,6 +3,23 @@
     height: 2rem;
 }
 
-.logo{
-   
+.head-div{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    position: sticky;
+}
+
+.head-text{
+    display: flex;
+   font-size: 20px;
+}
+
+.head-icons{
+    gap: 1rem;
+    margin-left: 5rem;
+}
+
+.i{
+    display: flex;
 }
