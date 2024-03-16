@@ -1,6 +1,10 @@
 .header{
     position: sticky;
-    height: 2rem;
+   
+}
+
+.logo{
+    margin-left: 2rem;
 }
 
 .head-div{
@@ -16,10 +20,39 @@
 }
 
 .head-icons{
-    gap: 1rem;
+    gap: 3rem;
     margin-left: 5rem;
+    padding-left: 5rem;
 }
 
 .i{
     display: flex;
 }
+
+.button-div{
+    display: flex ;
+    gap: 3rem;
+    margin-left:5rem ;
+    
+}
+
+.button{
+    background-color: white;
+    border: 0.1rem solid;
+    border-color: rgb(112, 112, 112);
+    border-radius: 2rem;
+    padding: 0.6rem;
+}
+.h1{
+    margin-left: 2rem;
+    color: rgb(73, 68, 68);
+}
+
+.row-1{
+    display: flex;
+}
+.images{
+    margin-left: 1.6rem;
+    gap: 1rem;
+}
+ 
