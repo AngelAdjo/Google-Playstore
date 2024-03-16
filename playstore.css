@@ -50,6 +50,37 @@
 
 .row-1{
     display: flex;
+    gap: 1rem;
+    padding-top: 2rem;
+    margin-top: 3rem;
+}
+.row-2{
+    display: flex;
+    gap: 1rem;
+    padding-top: 2rem;
+    margin-top: 3rem;
+}
+
+.row-3{
+    display: flex;
+    gap: 1rem;
+    padding-top: 2rem;
+    margin-top: 3rem;
+}
+
+.row-4{
+    display: flex;
+    gap: 1rem;
+    padding-top: 2rem;
+    margin-top: 3rem;
+    
+}
+
+.row-5{
+    display: flex;
+    gap: 1rem;
+    padding-top: 2rem;
+    margin-top: 3rem;
 }
 .images{
     margin-left: 1.6rem;
@@ -60,5 +91,22 @@
     height: 13rem;
     width: 13rem;
    
+}
+
+.img1{
+    height: 13rem;
+    width: 13rem;
+    border: 0.01rem solid;
+    border-color:rgb(238, 237, 237) ;
+    border-radius: 2rem;
+}
+
+.insta{
+    height: 14rem;
+    width: 14rem;
+    border: 0.01rem solid;
+    border-color:rgb(238, 237, 237) ;
+    border-radius: 2rem;
+
 }
  
