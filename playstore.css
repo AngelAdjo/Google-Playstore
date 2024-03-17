@@ -32,16 +32,29 @@
 .button-div{
     display: flex ;
     gap: 3rem;
-    margin-left:5rem ;
+    margin-left:3rem ;
+    height: 2.3rem;
+
     
 }
 
+
 .button{
     background-color: white;
+   
+    
+}
+
+.button-div1{
+  
     border: 0.1rem solid;
     border-color: rgb(112, 112, 112);
-    border-radius: 2rem;
-    padding: 0.6rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    
+   
 }
 .h1{
     margin-left: 2rem;
